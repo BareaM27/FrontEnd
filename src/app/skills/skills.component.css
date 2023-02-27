@@ -1,0 +1,53 @@
+.cantainer-fluid{
+    background-color: antiquewhite;
+}
+
+.row{
+    width: 100%;
+}
+
+/* Hard skills front*/
+
+.htmlycss{
+    text-align: center;
+}
+
+.jsyts{
+    text-align: center;
+}
+
+.angular{
+    text-align: center;
+}
+
+/* Hard skills back*/
+
+.springboot{
+    text-align: center;
+}
+
+.mysql{
+    text-align: center;
+}
+
+.github{
+    text-align: center;
+}
+
+/* Soft skills*/
+
+.Comunicacionasertiva{
+    text-align: center;
+}
+
+.proactividad{
+    text-align: center;
+}
+
+.trabajoenequipo{
+    text-align: center;
+}
+
+.ingles{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+.container-fluid{
+    background-color: antiquewhite;
+}
+
+/*Imagen del proyecto*/
+
+@media(max-width:768){
+    .imagenproyecto{
+        text-align: center;
+        width: 50%;
+        height: 400px;
+    }
+}
+
+#imagenproyecto{
+    border: 5px solid black;
+    border-radius: 30px;
+    width: 100%;
+    height: 350px;
+}
+
+/*Info del Proyecto*/
+
+.infoproyecto{
+    text-align: center;}

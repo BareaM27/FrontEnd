@@ -1,0 +1,70 @@
+.container-fluid{
+    background-color: antiquewhite;
+}
+
+/*Foto de perfil*/
+@media(min-width:768px){
+    .fotoperfil{
+        width: 25%;
+        height: 250px;
+        border-radius: 30px;
+        margin: 5px;
+        text-align: center;
+        border: 5px solid black;}
+}
+
+@media(max-width:768px){
+    .fotoperfil{
+        width: 98%;
+        height: 225px;
+        border-radius: 30px;
+        margin: 5px;
+        text-align: center;
+        border: 5px solid black;
+    padding-top: 10px;}
+    h3,h5{
+        display: inline-block;
+    }
+}
+
+#fotoperfil{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius:100%;
+}
+
+/*Nombre y titulo*/
+
+.nombreytitulo{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border: 5px solid black;
+}
+
+/*Sobre mi*/
+
+@media(min-width:768px){
+    .sobremi{
+        border: 5px solid black;
+        border-radius: 30px;
+        text-align: center;
+        width: 72%;
+        height: 250px;
+        margin: 5px;
+    }
+}
+
+@media(max-width:768px){
+    .sobremi{
+        border: 5px solid black;
+        border-radius: 30px;
+        text-align: center;
+        width: 98%;
+        height: 225px;
+        margin: 5px;
+    }
+
+}

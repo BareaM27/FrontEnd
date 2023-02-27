@@ -1,0 +1,48 @@
+.container-fluid{
+    background-color: antiquewhite;
+}
+
+.row{
+    border: 5px solid black;
+    border-radius: 30px;
+    margin-top: 5px;
+}
+
+/*Logo*/
+.logo{
+    position: relative;
+    display: inline;
+    text-align: center;
+}
+
+#educacionlogo{
+    width: 75px;
+    height: 75px;
+    border: 2px solid black;
+    border-radius:100%;
+    margin: 5px;
+}
+
+/*Empresa*/
+
+.institucion{
+    position: relative;
+    display: inline;
+    text-align: center;
+}
+
+/*Fecha*/
+
+.fecha{
+    position: relative;
+    display: inline;
+    text-align: center;
+}
+
+/*Descripcion*/
+
+.descripcion{
+    position: relative;
+    display: inline;
+    text-align: center;
+}

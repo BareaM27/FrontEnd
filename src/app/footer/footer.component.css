@@ -1,0 +1,10 @@
+.container-fluid{
+    background-color: antiquewhite;
+}
+
+.row{
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    color: rgb(177, 177, 164);
+}
